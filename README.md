@@ -1,4 +1,6 @@
 # Zimbra Python Client (pyzimbra)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fpyzimbra.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fpyzimbra?ref=badge_shield)
+
 
 ### About
 
@@ -39,3 +41,7 @@ Please, note that client and test directories from the source tree are not part 
 ### Contacts
 
 For any purpose, I am available at the following address: [project name]@lab.az
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fpyzimbra.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fpyzimbra?ref=badge_large)
